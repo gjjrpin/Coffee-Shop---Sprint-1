@@ -12,10 +12,6 @@
   background-color: #f7f7f7;
 }
 
-.g-text-decoration {
-  text-decoration: none;
-}
-
 .white-text {
   color: #ffffff;
   text-transform: uppercase;
@@ -34,7 +30,7 @@
 .coffee-photo {
   background-image: url("../assets/coffee-circle.jpg");
   width: 100%;
-  height: 43.75rem;
+  height: 38rem;
   background-position: center;
   background-size: cover;
 }
@@ -42,12 +38,17 @@
 .nav-link-font {
   font-size: 1.3125rem;
   font-weight: 400;
+  text-decoration: none;
+  border-left: 0.23rem solid;
+  border-color: #5bacc3;
+  padding: 0 1.5rem;
 }
 
 .paragraph-title_font {
   font-size: 3.75rem;
   font-weight: 300;
   text-align: center;
+  margin-top: 0;
 }
 
 .paragraph-subheading_font {

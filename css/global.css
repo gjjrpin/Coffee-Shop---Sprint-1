@@ -10,8 +10,7 @@ body {
 }
 
 .nitro-alignment {
-  padding-top: 1.3rem;
-  padding-left: 1rem;
+  padding: 0.7rem 1rem;
 }
 
 .nitro-font {
@@ -33,7 +32,6 @@ body {
 }
 
 .nitro-spacing {
-  margin-bottom: 1.5625rem;
   display: inline-block;
 }
 
@@ -55,4 +53,13 @@ body {
 .nav-align > li > a {
   text-decoration: none;
   color: #393939;
+}
+
+.sub-navigation-link_alignment > li {
+  display: inline-block;
+}
+
+.sub-navigation-link_alignment {
+  padding: 1.2rem;
+  margin: 0;
 }
