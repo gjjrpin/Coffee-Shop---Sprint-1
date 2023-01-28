@@ -48,7 +48,8 @@
   font-size: 3.75rem;
   font-weight: 300;
   text-align: center;
-  margin-top: 0;
+  margin: 0 0 1.5rem 0;
+  padding-top: 1rem;
 }
 
 .paragraph-subheading_font {
@@ -58,11 +59,12 @@
   display: block;
 }
 .paragraph-text_font {
-  font-size: 1.125rem;
+  font-size: 1.1rem;
   font-weight: 400;
   font-style: italic;
-  width: 34%;
+  width: 31%;
   text-align: center;
+  margin: auto;
 }
 
 .paragraph-price_font {
@@ -70,4 +72,9 @@
   font-weight: 400;
   text-align: center;
   color: #5bacc3;
+  margin-top: 0.4rem;
+}
+
+.paragraph-card {
+  padding: 1rem;
 }
