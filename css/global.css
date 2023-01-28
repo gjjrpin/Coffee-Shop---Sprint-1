@@ -2,14 +2,20 @@ body {
   font-family: "Open Sans";
   font-weight: 400;
   color: #393939;
+  margin: 0;
 }
 
 .pink-background {
   background-color: #fff0ed;
 }
 
+.nitro-alignment {
+  padding-top: 1.3rem;
+  padding-left: 1rem;
+}
+
 .nitro-font {
-  font-size: 2.0625rem;
+  font-size: 3.05rem;
   font-weight: 300;
   color: #393939;
   text-decoration: none;
@@ -19,7 +25,7 @@ body {
   background-image: url("../assets/coffee-beans-logo-and-footer.svg");
   width: 3.125rem;
   height: 3.125rem;
-  margin-bottom: 1.5625rem;
+  display: inline-block;
 }
 
 .g-list-style-type {
@@ -28,4 +34,25 @@ body {
 
 .nitro-spacing {
   margin-bottom: 1.5625rem;
+  display: inline-block;
+}
+
+.nav-align-parent_align {
+  display: inline-block;
+}
+
+.nav-align > li {
+  display: inline-block;
+  font-size: 1.3125rem;
+  font-weight: 400;
+  margin-right: 3.5rem;
+}
+
+.shop-now_color {
+  color: #5bacc3 !important;
+}
+
+.nav-align > li > a {
+  text-decoration: none;
+  color: #393939;
 }

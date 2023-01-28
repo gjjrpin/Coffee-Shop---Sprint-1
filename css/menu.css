@@ -3,6 +3,11 @@
   text-align: center;
 }
 
+.center-menu {
+  position: absolute;
+  width: 100%;
+}
+
 .light-grey-background {
   background-color: #f7f7f7;
 }
@@ -17,13 +22,13 @@
 }
 
 .title-box {
-  position: absolute;
   width: 18.75rem;
   height: 12.5rem;
   font-size: 3.75rem;
   font-weight: 300;
   margin-top: 0;
   margin-bottom: 0;
+  margin: auto;
 }
 
 .coffee-photo {
