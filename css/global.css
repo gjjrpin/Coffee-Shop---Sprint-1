@@ -9,6 +9,14 @@ body {
   background-color: #fff0ed;
 }
 
+.light-grey-background {
+  background-color: #f7f7f7;
+}
+
+.pink-grey-background_spacing {
+  padding: 0 0 3rem 0;
+}
+
 .nitro-alignment {
   padding: 0.7rem 1rem;
 }

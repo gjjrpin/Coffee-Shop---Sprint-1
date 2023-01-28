@@ -1,6 +1,7 @@
 .heading-1 {
   font-size: 3.75rem;
   font-weight: 300;
+  margin: 0;
 }
 
 button {
@@ -12,9 +13,35 @@ button {
   padding: 1rem 1.8rem;
 }
 
+.button-center {
+  text-align: center;
+}
+
+.hero-coffee-text-image_page > .hero-coffee-text-image {
+  display: inline-block;
+  vertical-align: middle;
+  margin: auto;
+}
+
+.hero-coffee-text-image-a {
+  width: 50rem;
+  text-align: left;
+}
+
+.hero-coffee-text-image_page {
+  text-align: center;
+}
+
+.hero-coffee-description_width {
+  width: 20rem;
+}
+
 .our-products {
   font-size: 3.75rem;
   font-weight: 300;
+  text-align: center;
+  margin: 0;
+  padding: 2.5rem 0 2.5rem;
 }
 
 .our-products-card {
@@ -23,6 +50,7 @@ button {
   padding: 1.25rem;
   border-radius: 0.625rem;
   box-shadow: 0rem 0.0313rem 0.5625rem -0.0625rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
 }
 
 .our-products-card_holder > .our-products-card {
@@ -53,9 +81,10 @@ button {
 }
 
 .discount-banner {
-  width: 83%;
   background-color: #393939;
   color: #ffffff;
+  margin: 12rem;
+  text-align: center;
 }
 
 .discount-banner_text {
@@ -63,6 +92,7 @@ button {
   font-weight: 400;
   text-align: center;
   margin: 0;
+  padding: 1.8rem;
 }
 
 .footer-paragraph_font {
@@ -71,5 +101,10 @@ button {
 }
 
 .icon_size {
-  width: 3.125rem;
+  width: 2.5rem;
+}
+
+footer > div {
+  display: inline-block;
+  margin: 2rem -5rem 2rem 14rem;
 }
