@@ -1,0 +1,27 @@
+body {
+  font-family: "Open Sans";
+  font-weight: 400;
+  color: #393939;
+}
+
+.pink-background {
+  background-color: #fff0ed;
+}
+
+.nitro-font {
+  font-size: 2.0625rem;
+  font-weight: 300;
+  color: #393939;
+  text-decoration: none;
+}
+
+.coffee-bean {
+  background-image: url("../assets/coffee-beans-logo-and-footer.svg");
+  width: 3.125rem;
+  height: 3.125rem;
+  margin-bottom: 1.5625rem;
+}
+
+.g-list-style-type {
+  list-style-type: none;
+}

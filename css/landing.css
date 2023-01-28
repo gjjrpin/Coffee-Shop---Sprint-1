@@ -1,0 +1,57 @@
+.heading-1 {
+  font-size: 3.75rem;
+  font-weight: 300;
+}
+
+button {
+  color: #ffffff;
+  background-color: #5bacc3;
+  border: none;
+  font-size: 1.3125rem;
+  font-weight: 400;
+}
+
+.our-products {
+  font-size: 3.75rem;
+  font-weight: 300;
+}
+.our-products-image_height {
+  height: 17.5rem;
+}
+
+.our-products-title_font {
+  font-size: 2.0625rem;
+  font-weight: 300;
+}
+
+.our-products-price_font {
+  font-size: 2.0625rem;
+  font-weight: 400;
+  color: #5bacc3;
+}
+
+.discount-banner {
+  width: 90%;
+  background-color: #393939;
+  color: #ffffff;
+}
+
+.discount-banner_text {
+  font-size: 2.8125rem;
+  font-weight: 400;
+  text-align: center;
+  margin: 0;
+}
+
+.footer-paragraph_font {
+  font-size: 1.125rem;
+  font-weight: 400;
+}
+
+.icon_size {
+  width: 3.125rem;
+}
+
+.nitro-spacing {
+  margin-bottom: 1.5625rem;
+}
