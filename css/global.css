@@ -25,3 +25,7 @@ body {
 .g-list-style-type {
   list-style-type: none;
 }
+
+.nitro-spacing {
+  margin-bottom: 1.5625rem;
+}
