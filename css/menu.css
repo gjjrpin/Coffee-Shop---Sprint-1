@@ -3,14 +3,14 @@
   text-align: center;
 }
 
-.center-menu {
-  position: absolute;
-  width: 100%;
-}
-
 .white-text {
   color: #ffffff;
   text-transform: uppercase;
+}
+
+.center-menu {
+  position: absolute;
+  width: 100%;
 }
 
 .title-box {

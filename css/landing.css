@@ -1,4 +1,4 @@
-.heading-1 {
+.product-heading-1 {
   font-size: 3.75rem;
   font-weight: 300;
   margin: 0;
@@ -47,7 +47,7 @@ button {
 .our-products-card {
   width: 20.625rem;
   height: 27.5rem;
-  padding: 1.25rem;
+  padding: 1.75rem;
   border-radius: 0.625rem;
   box-shadow: 0rem 0.0313rem 0.5625rem -0.0625rem rgba(0, 0, 0, 0.25);
   background-color: #ffffff;

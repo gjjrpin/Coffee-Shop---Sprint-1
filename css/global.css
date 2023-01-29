@@ -13,12 +13,16 @@ body {
   background-color: #f7f7f7;
 }
 
-.pink-grey-background_spacing {
+.pink-light-grey-background_spacing {
   padding: 0 0 3rem 0;
 }
 
 .nitro-alignment {
   padding: 0.7rem 1rem;
+}
+
+.nitro-spacing {
+  display: inline-block;
 }
 
 .nitro-font {
@@ -28,23 +32,15 @@ body {
   text-decoration: none;
 }
 
-.coffee-bean {
+.coffee-bean-logo_style {
   background-image: url("../assets/coffee-beans-logo-and-footer.svg");
   width: 3.125rem;
   height: 3.125rem;
   display: inline-block;
 }
 
-.g-list-style-type {
+.nav-list-style_type {
   list-style-type: none;
-}
-
-.nitro-spacing {
-  display: inline-block;
-}
-
-.nav-align-parent_align {
-  display: inline-block;
 }
 
 .nav-align > li {
@@ -54,21 +50,25 @@ body {
   margin-right: 3.5rem;
 }
 
-.shop-now_color {
-  color: #5bacc3 !important;
-}
-
 .nav-align > li > a {
   text-decoration: none;
   color: #393939;
 }
 
-.sub-navigation-link_alignment > li {
+.nav-align-parent_align {
   display: inline-block;
+}
+
+.shop-now_color {
+  color: #5bacc3 !important;
 }
 
 .sub-navigation-link_alignment {
   padding: 1.2rem;
   margin: 0;
   width: 100%;
+}
+
+.sub-navigation-link_alignment > li {
+  display: inline-block;
 }
